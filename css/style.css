@@ -101,16 +101,16 @@ p {
 /*Items for all the screenshots and pictures of your stuff*/
 .item{
   box-shadow: 50px 20px 0 rgba(0,0,0,0.2);
-  width: 1%;
-  min-width: 7rem;
-  margin: 0.05rem;
+  width: 10%;
+  min-width: 20%;
+  margin: 0.1rem;
   filter: brightness(1.2) contrast(1);
 }
  .item-info{
-   padding: 0.01%;
+   padding: 1%;
    text-align: center;
  }
 
 .item img{
-  width: 130%;
+  width: 150%;
 }
